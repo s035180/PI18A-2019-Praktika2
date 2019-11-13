@@ -1,0 +1,10 @@
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis 2.csprojAssemblyReference.cache
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis_2.Form1.resources
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis_2.Properties.Resources.resources
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis 2.csproj.GenerateResource.cache
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis 2.csproj.CoreCompileInputs.cache
+C:\Users\gh789\Desktop\Praktinis 2\bin\Debug\Praktinis 2.exe.config
+C:\Users\gh789\Desktop\Praktinis 2\bin\Debug\Praktinis 2.exe
+C:\Users\gh789\Desktop\Praktinis 2\bin\Debug\Praktinis 2.pdb
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis 2.exe
+C:\Users\gh789\Desktop\Praktinis 2\obj\Debug\Praktinis 2.pdb
